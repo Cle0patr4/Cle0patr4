@@ -3,7 +3,7 @@
 Hi, I'm **Alejandra** – a strategic and kind leader in tech.  
 I build AI-powered automations and tools with strong, smart femininity. ✨🐍  
 
-> "Cleopatra" is more than a username – it's the alter ego I channel as I build my career with bold decisions, graceful strength, and sharp strategy.
+> "Cleopatra" is more than a username – it's the alter ego I channel as I build my career with (hopefully) bold decisions, graceful strength, and sharp strategy.
 
 ---
 
@@ -20,7 +20,7 @@ I'm currently on a mission to become an **AI Automation Engineer**, blending cre
 - ⚡ **FastAPI**
 - 🧠 **AI / LLMs / OpenAI**
 - 🧰 **Git & GitHub**
-- 🧩 **No-code tools** (Airtable, n8n, Zapier, Make)
+- 🧩 **No-code tools** (Airtable, Webflow, n8n, Zapier, OpenAI, Make)
 - ⚙️ **Automation** (Webhooks, Triggers, Workflows)
 
 ---
@@ -42,14 +42,5 @@ I'm currently on a mission to become an **AI Automation Engineer**, blending cre
 
 ---
 
-### 📫 Let’s connect
-
-Feel free to reach out, contribute, or just follow along:  
-→ [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-→ [Twitter](https://twitter.com/tuusuario)  
-→ [Personal website](https://tusitio.com) _(if you have one)_
-
----
-
-🧿 *Building with purpose, beauty, and fire.*
+🧿 *Building with purpose*
 
