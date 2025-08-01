@@ -1,6 +1,6 @@
 # 👑 Cleopatra
 
-Hi, I'm **Alejandra** – a strategic, kind, and powerful leader in tech.  
+Hi, I'm **Alejandra** – a strategic and kind leader in tech.  
 I build AI-powered automations and tools with strong, smart femininity. ✨🐍  
 
 > "Cleopatra" is more than a username – it's the alter ego I channel as I build my career with bold decisions, graceful strength, and sharp strategy.
