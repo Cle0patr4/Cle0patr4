@@ -1,7 +1,7 @@
 # 👑 Cleopatra
 
-Hi, I'm **Alejandra** – a strategic and effective problem-solver in tech.  
-I design AI-powered automations and tools with clarity, precision, and a thoughtful approach. ✨🐍  
+Hi, I'm **Alejandra** – an effective problem-solver in tech.  
+I design AI-powered automations and tools for companies, my approach? Friendly and easy user experience. ✨🐍  
 
 > "Cleopatra" is more than a username – it's the alter ego I channel to lead with structured thinking, clear communication, and bold execution.
 
@@ -9,7 +9,10 @@ I design AI-powered automations and tools with clarity, precision, and a thought
 
 ### 🧭 Welcome to my journey
 
-I'm currently on a mission to become an **AI Automation Engineer**, blending creativity, logic, and automation to build meaningful, scalable solutions.
+I graduated from Universidad Jorge Tadeo Lozano in Colombia with a degree in **Product and Interface Design.**
+Fascinated by the power of technology and its impact, I began learning no-code tools to bring ideas to life.
+
+Now, after discovering the potential of AI, I’m focused on transitioning into a career as an **AI Automation Engineer**, combining design thinking, systems logic, and automation tools to build useful, scalable solutions.
 
 ---
 
