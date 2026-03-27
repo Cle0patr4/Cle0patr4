@@ -1,4 +1,4 @@
-# 👑 Cleopatra
+# 👑 Cle0
 
 Hi, I'm **Alejandra** – an effective problem-solver in tech.  
 I design AI-powered automations and tools for companies, my approach? Friendly and easy user experience. ✨🐍  
