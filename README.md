@@ -1,6 +1,6 @@
 # Hi, I'm Ale 👋
 
-**AI Product Owner & Automation Architect** · Bilingual (English/Spanish) · Hudson Valley, NY → San Francisco, CA
+**AI Product Owner & Automation Architect** · Bilingual (English/Spanish) · Hudson Valley, NY 
 
 I design and ship AI agents that do real work in production, then build the measurement loops that keep them accurate. I'm especially interested in voice agents, agent evals and getting teams to actually adopt AI.
 
