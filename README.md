@@ -1,49 +1,44 @@
-# 👑 Cle0
+# Hi, I'm Ale 👋
 
-Hi, I'm **Alejandra** – an effective problem-solver in tech.  
-I design AI-powered automations and tools for companies, my approach? Friendly and easy user experience. ✨🐍  
+**AI Product Owner & Automation Architect** · Bilingual (English/Spanish) · Hudson Valley, NY → San Francisco, CA
 
-> "Cleopatra" is more than a username – it's the alter ego I channel to lead with structured thinking, clear communication, and bold execution.
-
----
-
-### 🧭 Welcome to my journey
-
-I graduated from Universidad Jorge Tadeo Lozano in Colombia with a degree in **Product and Interface Design.**
-Fascinated by the power of technology and its impact, I began learning no-code tools to bring ideas to life.
-
-Now, after discovering the potential of AI, I’m focused on transitioning into a career as an **AI Automation Engineer**, combining design thinking, systems logic, and automation tools to build useful, scalable solutions.
+I design and ship AI agents that do real work in production, then build the measurement loops that keep them accurate. I'm especially interested in voice agents, agent evals and getting teams to actually adopt AI.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 What I'm working on
 
-- 🐍 **Python**
-- 🔗 **APIs**
-- ⚡ **FastAPI**
-- 🧠 **AI / LLMs / OpenAI**
-- 🧰 **Git & GitHub**
-- 🧩 **No-code tools** (Airtable, Webflow, n8n, Zapier, OpenAI, Make)
-- ⚙️ **Automation** (Webhooks, Triggers, Workflows)
+**Voice AI agents in production** (PayJur / Templaris)
+- Lead AI implementation for a debt collection platform: Spanish-language voice agents handling **~90,000 calls a month**
+- Stack: LiveKit · Deepgram · Claude · Cartesia
+- Built a **nightly scoring pipeline that rates every call on 15 metrics**, so we see where the agent drifts and fix it every week
+- Designed guardrails for compliance-sensitive conversations
+- Lead a team of five
 
----
+## 🧭 How I work
 
-### 🔥 What I'm working on
+1. **Get close to the work.** Sit with the people doing the job and find where it really breaks.
+2. **Build the agent and its guardrails** around that reality.
+3. **Measure every interaction.** Evals, scoring and review loops.
+4. **Improve, ship, repeat.**
 
-- Building a **RAG system** to connect GPT agents to private knowledge  
-- Designing a **nutrition tracker app** with smart food logging (text & image)  
-- Exploring the idea of a **dating app** in collaboration with a digital creator  
-- Learning **system design** and **Python best practices**
+## 🛠️ Tools I use
 
----
+| Area | Tools |
+|---|---|
+| AI & agents | Claude, Claude Code, prompt design, evals, guardrails |
+| Voice | LiveKit, Deepgram, Cartesia, ElevenLabs, Retell |
+| Automation | n8n, Airtable, API integrations |
+| Product & design | Figma (prototyping), roadmaps, discovery, analytics |
 
-### 🎯 Goals (2025 and beyond)
+## 🏅 Background
 
-- Land a remote job as an AI Automations Engineer  
-- Build tools that save people time and spark joy  
-- Share my journey through content & open-source projects  
+- **Claude Certified Architect – Professional (CCAR-P)**
+- Founded and sold **Tuprop**, a PropTech company
+- 5+ years consulting on AI automation, including **Spicy Automations**
 
----
+## 📬 Let's connect
 
-🧿 *Building with purpose*
-
+- LinkedIn: [linkedin.com/in/alespicyautomations](https://linkedin.com/in/alespicyautomations)
+- Email: ale@spicyautomations.com
+- Open to AI product roles in San Francisco and remote
